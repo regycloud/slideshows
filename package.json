@@ -10,7 +10,7 @@
     "react-dom": "16.8.6",
     "react-png-button": "1.0.4",
     "react-scripts": "2.1.8",
-    "styled-components": "4.3.2"
+    "styled-components": "4"
   },
   "devDependencies": {
     "typescript": "3.3.3"
